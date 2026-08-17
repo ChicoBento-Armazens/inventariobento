@@ -1,1 +1,4 @@
 npm run dev
+
+adicionar basename="/inventariobento" no app.jsx para githubpages
+e no vite.config.js

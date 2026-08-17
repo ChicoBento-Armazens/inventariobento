@@ -10,7 +10,7 @@ import Cadastro from "./pages/cadastro/index.jsx";
 function App() {
   return (
     //adicionar basename="/inventariobento" para githubpages
-    <BrowserRouter>
+    <BrowserRouter basename="/inventariobento">
       <Routes>
         <Route path="/" element={<Home />} />
 
